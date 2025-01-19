@@ -1,0 +1,26 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "this react.js app from scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijitBorate-code/Reactjs.git"
+  },
+  "keywords": [
+    "React",
+    "js"
+  ],
+  "author": "Abhijit Borate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijitBorate-code/Reactjs/issues"
+  },
+  "homepage": "https://github.com/AbhijitBorate-code/Reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
