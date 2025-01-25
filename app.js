@@ -1,3 +1,5 @@
+import React from "react";
+
 
 const heading2 =  React.createElement('h2',{},'Heading secondary heading')
 const heading3 =  React.createElement('h4',{},'Heading secondary heading')
